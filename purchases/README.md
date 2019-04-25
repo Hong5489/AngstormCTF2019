@@ -132,11 +132,11 @@ You don't have any money to buy 0x404070243825@@s. You're wasting your time! We 
 We guess the Format String must be in 8 bytes format:
 ```
 Before:
-[		8th argument   ][		   9th argument        ]
+[      8th argument    ][          9th argument        ]
 [%][8][$][p][40][40][40][00][00][00][00][00]...
 
 After:
-[		8th argument   ][		   9th argument        ]
+[      8th argument    ][          9th argument        ]
 [%][8][$][p][ ][ ][ ][ ][40][40][40][00][00][00][00][00]
 ```
 We added four space into the format string and change `%8$p` to `%9$p` because 9th argument
