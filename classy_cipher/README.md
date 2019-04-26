@@ -1,7 +1,7 @@
 # Classy Cipher
 Description:
 
-Every CTF starts off with a Caesar cipher, but we're more [classy](classy_cipher.c).
+Every CTF starts off with a Caesar cipher, but we're more [classy](classy_cipher.py).
 
 Author: defund
 
