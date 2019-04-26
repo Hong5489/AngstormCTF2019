@@ -1,13 +1,13 @@
 Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
 Audit File
 
-Foremost started at Fri Apr 26 15:19:45 2019
+Foremost started at Fri Apr 26 15:28:09 2019
 Invocation: foremost paper_bin.dat 
 Output directory: /root/Downloads/AngstromCTF2019/paper_bin/output
 Configuration file: /etc/foremost.conf
 ------------------------------------------------------------------
 File: paper_bin.dat
-Start: Fri Apr 26 15:19:45 2019
+Start: Fri Apr 26 15:28:09 2019
 Length: 6 MB (7123824 bytes)
  
 Num	 Name (bs=512)	       Size	 File Offset	 Comment 
@@ -32,11 +32,11 @@ Num	 Name (bs=512)	       Size	 File Offset	 Comment
 17:	00011880.pdf 	     293 KB 	    6082782 	  (PDF is Linearized)
 18:	00012472.pdf 	     374 KB 	    6385886 	 
 19:	00013224.pdf 	     344 KB 	    6770910 	 
-Finish: Fri Apr 26 15:19:46 2019
+Finish: Fri Apr 26 15:28:09 2019
 
 20 FILES EXTRACTED
 	
 pdf:= 20
 ------------------------------------------------------------------
 
-Foremost finished at Fri Apr 26 15:19:46 2019
+Foremost finished at Fri Apr 26 15:28:09 2019

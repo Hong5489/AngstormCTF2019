@@ -57,10 +57,7 @@ Yay! We got something!
 
 Using `pdftotext` and some bash script we can find the flag easily:
 ```bash
-root@2Real:~/Downloads/AngstromCTF2019/paper_bin# for i in output/pdf/*;do pdftotext $i - >> output.txt ;done
-root@2Real:~/Downloads/AngstromCTF2019/paper_bin# ls
-output  output.txt  paper_bin.dat
-root@2Real:~/Downloads/AngstromCTF2019/paper_bin# cat output.txt | grep actf
+root@2Real:~/Downloads/AngstromCTF2019/paper_bin# for i in output/pdf/*;do pdftotext $i - | grep actf ;done
 actf{proof by triviality}
 ```
 
